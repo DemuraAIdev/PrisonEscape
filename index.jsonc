@@ -1,7 +1,7 @@
 {
   "name": "PrisonEscape",
   "author": "Abdul Vaiz",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "start": "CellPrison",
   "description": "You find yourself confined in a dreary prison cell with only a bed, a desk, and a locked door. Your mission: Escape from this seemingly impenetrable prison.",
   "config": {
@@ -51,7 +51,7 @@
       "restart": "Restart game"
     },
     "manager": {
-      "test": "test.js"
+      "test": "Manager.js"
     }
   },
   "inventory": [],
