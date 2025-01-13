@@ -1,4 +1,4 @@
-class test {
+class PrisonManager {
   constructor(game) {
     this.game = game;
     console.log(
@@ -20,4 +20,4 @@ class test {
   }
 }
 
-module.exports = test;
+module.exports = PrisonManager;

@@ -350,7 +350,8 @@
       "id": "guard_wakeup",
       "trigger": {
         "verb": "talk",
-        "object": "guard"
+        "object": "guard",
+        "location": "Corridor"
       },
       "happen": false,
       "name": "Guard Wakeup",
